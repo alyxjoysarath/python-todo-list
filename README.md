@@ -34,7 +34,8 @@ This program allows users to add tasks, view tasks, and remove completed tasks t
 
 Example output of the program:
 
-todo_list_demo.png
+![ToDo List Demo](todo_list_demo.png)
+
 
 ---
 
